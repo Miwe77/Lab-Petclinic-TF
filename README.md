@@ -1,6 +1,6 @@
 
 ```markdown
-# 🚀 Despliegue Automático DevOps: Spring PetClinic en Kubernetes
+# 🚀 Despliegue Automático DevOps: PetClinic en Kubernetes
 
 Este proyecto implementa una solución completa de **Infraestructura como Código (IaC)** y **CI/CD** para desplegar la aplicación *Spring PetClinic* en un entorno AWS.
 
